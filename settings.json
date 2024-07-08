@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "ToyotaHighlander",
+    "password": "",
+    "type": ""
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "mc.leftypvp.net",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.8.9"
   },
 
   "position": {
@@ -47,12 +47,9 @@
       "repeat": true,
       "repeat-delay": 60,
 
-      "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
-      ]
+      "messages":[
+        "/skyblock",
+        "/is warp btm cactus",]
     },
 
     "chat-log": true,
